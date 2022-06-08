@@ -1,0 +1,26 @@
+//순서 필수
+$primary: #FDC000;
+
+// settings theme colors
+
+// $theme-colors: (
+//   "primary": orange,
+//   "secondary": red,
+//   "success": '',
+//   "info": '',
+//   "warning": '',
+//   "danger": '',
+//   "light": '',
+//   "dark": '',
+// )!default;
+
+
+
+@import '../../node_modules//bootstrap/scss/functions';
+@import "../../node_modules//bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
