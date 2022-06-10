@@ -6,7 +6,7 @@
 @import '../scss/main.scss';
     
   .logo{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Jua', sans-serif;
     font-size: 20px;
     color: $black;
     text-decoration: none;
